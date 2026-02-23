@@ -38,9 +38,8 @@ Currently focusing on:
 
 ## 📫 Let's Connect
 
-- LinkedIn: (Add your link)
-- LeetCode: (Add your profile)
-- HackerRank: (Add your profile)
+- LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
+- LeetCode: 
 
 _"Discipline builds what motivation starts."_
 <!--
