@@ -41,7 +41,7 @@ Currently focusing on:
 - LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
 - LeetCode: 
 
-_"Discipline builds what motivation starts."_
+
 <!--
 **Misbah928570/Misbah928570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
