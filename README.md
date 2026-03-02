@@ -4,7 +4,7 @@
 💡 Aspiring Data Engineer | Problem Solver  
 💻 Passionate about building strong foundations in Data Structures, Algorithms, and scalable systems  
 
-I believe in **structured learning, consistency, and problem-solving clarity.**
+
 ---
 
 ## 🚀 About Me
@@ -53,6 +53,7 @@ Currently focusing on:
 - LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
 - LeetCode: 
 
+⭐ “Consistency builds confidence. Confidence builds success.”
 
 <!--
 **Misbah928570/Misbah928570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
