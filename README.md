@@ -2,8 +2,9 @@
 
 🎓 Data Science Undergraduate  
 💡 Aspiring Data Engineer | Problem Solver  
-📍 Passionate about building strong foundations in Data Structures, Algorithms, and scalable systems  
+💻 Passionate about building strong foundations in Data Structures, Algorithms, and scalable systems  
 
+I believe in **structured learning, consistency, and problem-solving clarity.**
 ---
 
 ## 🚀 About Me
@@ -23,9 +24,20 @@ Currently focusing on:
 ## 🛠️ Tech Stack
 
 - 💻 Languages: Python, SQL, Java, HTML, C  
-- 📊 Core: Data Structures & Algorithms, Computer Networks, DBMS  
+- 📊 Core: Data Structures & Algorithms, Computer Networks, DBMS , Computer Networks 
 - 🔧 Tools: Git, GitHub  
 - 📚 Exploring: AI and   
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misbah928570&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah928570&layout=compact&theme=tokyonight)
+
+---
+
 
 
 ## 📈 Current Goals
