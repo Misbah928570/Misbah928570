@@ -30,14 +30,6 @@ Currently focusing on:
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Misbah928570&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Misbah928570&layout=compact&theme=tokyonight)
----
-
-
-
 ## 📈 Current Goals
 
 - Master DSA patterns for placements  
@@ -51,7 +43,7 @@ Currently focusing on:
 - LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
 - LeetCode: 
 
-⭐ “Consistency builds confidence. Confidence builds success.”
+“Consistency builds confidence. Confidence builds success.”
 
 <!--
 **Misbah928570/Misbah928570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
