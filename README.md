@@ -1,4 +1,4 @@
-## Hi, I'm Misbah Noorain 👋
+ Hi, I'm Misbah Noorain 👋
 ---
 🎓 Data Science Undergraduate  
 💡 Aspiring Data Engineer | Problem Solver  
