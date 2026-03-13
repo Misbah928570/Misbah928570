@@ -9,10 +9,7 @@
 
 ## 🚀 About Me
 
-I am a Data Science student focused on strengthening problem-solving skills and building a solid technical foundation.
-
-I believe consistency compounds.  
-Through daily DSA practice and hands-on projects, I am continuously improving my analytical thinking, debugging ability, and system-level understanding.
+I am a Data Science student focused on strengthening problem-solving skills and building a solid technical foundation. I am continuously improving my analytical thinking, debugging ability, and system-level understanding.
 
 Currently focusing on:
 - Data Structures & Algorithms
@@ -23,10 +20,10 @@ Currently focusing on:
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Python, SQL, Java, HTML, C  
+- 💻 Languages: Python, SQL, Java, HTML, CSS, C, MongoDB
 - 📊 Core: Data Structures & Algorithms, Computer Networks, DBMS , Computer Networks 
-- 🔧 Tools: Git, GitHub  
-- 📚 Exploring: AI and   
+- 🔧 Tools: Git, GitHub, Jenkins
+- 📚 Exploring: Generative AI & RAG
 
 ---
 
@@ -35,7 +32,6 @@ Currently focusing on:
 - Master DSA patterns for placements  
 - Build impactful data projects  
 - Contribute consistently on GitHub  
-- Prepare for Data Engineering / Data roles  
 
 
 ## 📫 Let's Connect
@@ -43,7 +39,6 @@ Currently focusing on:
 - LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
 - LeetCode: 
 
-“Consistency builds confidence. Confidence builds success.”
 
 <!--
 **Misbah928570/Misbah928570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
