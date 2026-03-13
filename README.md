@@ -1,5 +1,5 @@
- Hi, I'm Misbah Noorain 👋
----
+## Hi, I'm Misbah Noorain 👋
+
 🎓 Data Science Undergraduate  
 💡 Aspiring Data Engineer | Problem Solver  
 💻 Passionate about building strong foundations in Data Structures, Algorithms, and scalable systems  
