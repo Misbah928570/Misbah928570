@@ -25,7 +25,6 @@ Currently focusing on:
 - 🔧 Tools: Git, GitHub, Jenkins
 - 📚 Exploring: Generative AI & RAG
 
----
 
 ## 📈 Current Goals
 
