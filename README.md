@@ -34,7 +34,6 @@ Currently focusing on:
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
-- LeetCode: 
 
 
 <!--
