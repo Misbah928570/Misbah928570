@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misbah Noorain</h1>
-<h3 align="center">A Data Science Undergraduate | Aspiring Data engineer | ML Engineer | Problem Solver</h3>
+<h3 align="center">A Data Science Undergraduate | Aspiring Data engineer / ML Engineer | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbah928570&label=Profile%20views&color=0e75b6&style=flat" alt="misbah928570" /> </p>
 
