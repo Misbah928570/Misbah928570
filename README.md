@@ -1,52 +1,27 @@
-## Hi, I'm Misbah Noorain 👋
+<h1 align="center">Hi 👋, I'm Misbah Noorain</h1>
+<h3 align="center">A Data Science Undergraduate | Aspiring Data engineer | ML Engineer | Problem Solver</h3>
 
-🎓 Data Science Undergraduate  
-💡 Aspiring Data Engineer | Problem Solver  
-💻 Passionate about building strong foundations in Data Structures, Algorithms, and scalable systems  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=misbah928570&label=Profile%20views&color=0e75b6&style=flat" alt="misbah928570" /> </p>
 
+- 🔭 I’m currently working on [multimodal-alzheimers-detection](https://github.com/Misbah928570/multimodal-alzheimers-detection)
 
-## 🚀 About Me
+- 🌱 I’m currently learning **Data Structures & Algos, Machine Learning, Deep Learning**
 
-I am a Data Science student focused on strengthening problem-solving skills and building a solid technical foundation. I am continuously improving my analytical thinking, debugging ability, and system-level understanding.
+- 👯 I’m looking to collaborate on **Machine Learning / Data science projects(Healthcare, AI, NLP, CV)**
 
-Currently focusing on:
-- Data Structures & Algorithms
-- Python & SQL
-- Backend fundamentals
-- Real-world data projects
+- 👨‍💻 All of my projects are available at [https://github.com/Misbah928570](https://github.com/Misbah928570)
 
+- 📫 How to reach me **Email : [misbahnoorain928@gmail.com](mailto: misbahnoorain928@gmail.com)**
 
-## 🛠️ Tech Stack
+- ⚡ Fun fact **I blend creativity with logic from paintings to Machine learning models**
 
-- 💻 Languages: Python, SQL, Java, HTML, CSS, C, MongoDB
-- 📊 Core: Data Structures & Algorithms, Computer Networks, DBMS , Computer Networks 
-- 🔧 Tools: Git, GitHub, Jenkins
-- 📚 Exploring: Generative AI & RAG
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/misbah-noorain-984942294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbah-noorain-984942294" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/misbah_noorain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="misbah_noorain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/misbah_noorain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misbah_noorain" height="30" width="40" /></a>
+<a href="https://discord.gg/Ayn4sjbSRE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayn4sjbSRE" height="30" width="40" /></a>
+</p>
 
-
-## 📈 Current Goals
-
-- Master DSA patterns for placements  
-- Build impactful data projects  
-- Contribute consistently on GitHub  
-
-
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/misbah-noorain-984942294/
-
-
-<!--
-**Misbah928570/Misbah928570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
