@@ -11,8 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Misbah928570](https://github.com/Misbah928570)
 
-- 📫 How to reach me **Email : [misbahnoorain928@gmail.com](mailto: misbahnoorain928@gmail.com)**
-                      **Linkedin : https://www.linkedin.com/in/misbah-noorain-984942294/ **
+- 📫 How to reach me
+      - **Email : [misbahnoorain928@gmail.com](mailto: misbahnoorain928@gmail.com)**
+      - **Linkedin : https://www.linkedin.com/in/misbah-noorain-984942294/ **
 
 - ⚡ Fun fact **I blend creativity with logic from paintings to Machine learning models**
 
